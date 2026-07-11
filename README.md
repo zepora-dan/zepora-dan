@@ -55,4 +55,4 @@ An implementation of cryptography algorithms and secure user authentication setu
 
 ### 📫 Connect with Me
 - **GitHub Account:** [github.com/zepora-dan](https://github.com/zepora-dan)
-- **Collaboration Inquiries:** your.email@example.com
+- **Collaboration Inquiries:** zepora-dan@gmail.com
