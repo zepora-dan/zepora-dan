@@ -1,4 +1,3 @@
-# Hi there! I'm Deborah <img src="https://media.giphy.com/media/hvXCLtE65Qf4al07g3/giphy.gif" width="35px">
 <p align="center">
   <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px">
   <h1 align="center">Hi there, I'm Deborah! 👋</h1>
