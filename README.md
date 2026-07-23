@@ -1,4 +1,4 @@
-# Hi there! I'm zepora-dan <img src="https://media.giphy.com/media/hvXCLtE65Qf4al07g3/giphy.gif" width="35px">
+# Hi there! I'm Deborah <img src="https://media.giphy.com/media/hvXCLtE65Qf4al07g3/giphy.gif" width="35px">
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F5D4&width=500&lines=Software+Engineer;Bot+Automation+Expert;Web+Dev+%26+Security+System;Building+Secure+Infrastructure)
 
